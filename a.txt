@@ -1,1 +1,2 @@
 it's sound like, test.
+Testando quando eu altero arquivo direto pelo Git
